@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAdiT50-yeEH3KrGFqHgNVOvdNpH2f7aJc',
-    appId: '1:562920529649:android:b6850cf340a7aad6be5350',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '562920529649',
     projectId: 'greeny-solutions-technician',
     storageBucket: 'greeny-solutions-technician.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAEzRgnmwd_QZxKmTd3ns0vrvxWBU8svfY',
-    appId: '1:888823875576:ios:a528e88e6bb1f215cef80d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '888823875576',
     projectId: 'greeny-solutions',
     storageBucket: 'greeny-solutions.appspot.com',
