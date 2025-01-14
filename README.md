@@ -16,8 +16,6 @@ for visualising technician tasks  location and the shortest route it with durati
 
 # User Interface!
 
-# User Interface!
-[technician_screen](https://github.com/user-attachments/assets/9e99d9c6-c7d9-410c-97a2-6b2ac980207a)
 <img src="https://github.com/user-attachments/assets/9e99d9c6-c7d9-410c-97a2-6b2ac980207a" width="500"/>
 <img src="https://github.com/user-attachments/assets/cc6b154f-6946-4816-b683-a18a82060ba1" width="500"/>
 <img src="https://github.com/user-attachments/assets/bf024647-f0a5-409f-ad59-d151978d1183" width="500"/>
